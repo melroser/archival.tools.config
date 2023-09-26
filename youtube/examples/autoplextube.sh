@@ -15,7 +15,7 @@ function download {
 
 # examples
 #
-#download https://youtu.be/qsHjEK9o-yo "--no-playlist" "Fireplace" "0"
+download https://youtu.be/qsHjEK9o-yo "--no-playlist" "Fireplace" "0"
 
 #download https://www.youtube.com/c/LofiGirl "--playlist-reverse --playlist-start 1" "Lofi Girl" "0"
 
